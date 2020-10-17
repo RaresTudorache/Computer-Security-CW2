@@ -1,4 +1,4 @@
-# Computer-Security-CW2
+# Cryptography
 In this coursework we touched upon a number of topics related to both defense and attack of components that
 interact with security-critical parts of users’ workflow:
 
